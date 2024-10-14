@@ -1,2 +1,2 @@
 # data_winers
-Projet 1 Groupe : Mahmoud, Anna, Qian, Benedicte
+Projet 1 Groupe : Amine, Rebbeca, Yao, Kanza, Monko
